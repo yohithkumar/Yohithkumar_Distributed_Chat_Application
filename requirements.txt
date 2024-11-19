@@ -1,0 +1,4 @@
+# Optional dependencies for enhancements
+loguru==0.7.0         # For enhanced logging
+cryptography==41.0.0  # For encryption and secure communication
+tkinter               # For GUI (comes pre-installed with Python on most platforms)
